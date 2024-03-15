@@ -2,8 +2,8 @@
 ## Create a B-Tree Data Structure
 
 This is a C program which reads a file containing one integer per line
-and built a B-tree data structure for the input integers. After the 
-B-tree is build the program traverses the tree and prints all the entries.
+and builds a B-tree data structure for the input integers. After the 
+B-tree is built the program traverses the tree and prints all the entries.
 They should come out in ascending numerical order.
 
 I use this to experiement with and understand B-trees. It doesn't actually
